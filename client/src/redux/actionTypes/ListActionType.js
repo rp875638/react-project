@@ -1,0 +1,4 @@
+export const LIST_DATA_REQUEST = 'LIST_DATA_REQUEST';
+export const LIST_DATA_SUCCESS = 'LIST_DATA_SUCCESS';
+export const LIST_DATA_ERROR = 'LIST_DATA_ERROR';
+export const GET_LIST_DATA = 'GET_LIST_DATA';
